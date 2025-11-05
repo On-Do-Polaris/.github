@@ -1,6 +1,6 @@
 # Polaris (북극성) <img src="logo.png" alt="logo" width="40" align="right"/>
 
-### 온도(On-do)
+### 온도(On-Do)
 > **데이터 On, 예측 Do**  
 > 데이터로 미래를 켜고, 예측으로 방향을 제시합니다.
 
