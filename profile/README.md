@@ -1,4 +1,4 @@
-# Polaris (북극성) <img src="logo.png" alt="logo" width="40" align="right"/>
+# Polaris (북극성) <img src="https://github.com/user-attachments/assets/6044fd86-94ea-44fc-839c-5cd09e9873d5" alt="logo" width="40" align="right"/>
 
 ### 온도(On-Do)
 > **데이터 On, 예측 Do**  
