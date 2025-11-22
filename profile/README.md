@@ -35,7 +35,7 @@
 
 | 이름 | 역할 | 담당 파트 | 주요 업무 | 이메일 | GitHub |
 |------|------|------------|------------|---------|---------|
-| 김창규 | 백엔드 파트 리더 | API, 아키텍쳐 | 주요 업무 | [name@mail.com](mailto:name@mail.com) | [Nangmanful](https://github.com/Nangmanful) |
+| 김창규 | 백엔드 개발자 | API, 아키텍쳐 | 주요 업무 | [name@mail.com](mailto:name@mail.com) | [Nangmanful](https://github.com/Nangmanful) |
 | 오동헌 | 백엔드 개발자 | 데이터 | 주요 업무 | [name@mail.com](mailto:name@mail.com) | [odh19061906](https://github.com/odh19061906) |
 | 이시언 | 백엔드 개발자 | 에이전트 구현 | 주요 업무 | [name@mail.com](mailto:name@mail.com) | [sieon-l](https://github.com/sieon-l) |
 | 이수민 | 백엔드 개발자 | 에이전트 구현 | 주요 업무 | [name@mail.com](mailto:name@mail.com) | [LSM-SOOM](https://github.com/LSM-SOOM) |
